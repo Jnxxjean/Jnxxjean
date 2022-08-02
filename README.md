@@ -1,7 +1,3 @@
- @Jnxxjean
-
-
-<!---
-Jnxxjean/Jnxxjean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+:+1: @Jnxxjean
+aprendendo a programar
+JavaScript e Scratch
